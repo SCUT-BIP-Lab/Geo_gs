@@ -6,7 +6,7 @@
 In this paper, we introduce a geometry-aware real-time rendering method for large-scale scenes. Compared to previous NeRF-based methods (such as Mega-Nerf and Switch-NeRF) and 3DGS-based methods (including 3DGS, GaMeS, and Scaffold-GS), our method renders large scenes with high fidelity while maintaining reasonable training time and memory usage. Extensive experiments on 13 scenes, including eight from four public datasets (MatrixCity-Aerial, Mill-19, Tanks & Temples, WHU) and five self-collected scenes from SCUT-CA and plateau regions, further demonstrate the generalization capability of our method. 
 
 <p align="center">
-<img src="imgs/fig_cover.png" width=100% height=100% 
+<img src="imgs/fig_cover_.png" width=100% height=100% 
 class="center">
 </p>
 
