@@ -28,7 +28,7 @@ Please download the data from the [WHU dataset](http://gpcv.whu.edu.cn/data/)
 
 We performe experiments on five self-collected scenes(SCUT Campus and plateau regions).
 
-Please concat us:
+Please contact us:
 
 Haihong Xiao and Jianan Zou: auhhxiao@mail.scut.edu.cn; 202130450216@mail.scut.edu.cn
 
